@@ -5,7 +5,7 @@ This will help you when you have two OS X systems sharing the same bluetooth per
 
 1. Install blueutil on both systems
   
-  $ brew install blueutil)
+  $ brew install blueutil
 
 2. Change permissions: 
 
