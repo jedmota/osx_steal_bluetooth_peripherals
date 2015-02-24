@@ -11,7 +11,12 @@ This will help you when you have two OS X systems sharing the same bluetooth per
 
   $ chmod +x bluetoothSsh.sh
 
+
+
 Run examples:
+
   ./bluetoothSsh.sh on
+  
   ./bluetoothSsh.sh off
+  
   ./bluetoothSsh.sh shutdown
